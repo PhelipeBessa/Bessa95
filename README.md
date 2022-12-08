@@ -3,6 +3,7 @@
 
 - Graduando em **_Análise e Desenvolvimento de Sistemas_** 🎓
 - Estudante Full-Stack da **_RocketSeat_** 🚀
+- Aluno de Pyhon na **_EmpowerData_** 🐍
 - No momento tenho interesse na área de **_Fron-End_** 💻
 - Mas meu foco é **_Full-Stack_** 🎯
 - Meus conhecimentos atuais: **HTML** | **CSS** | **JAVASCRIPT** | **PHP** | **MYSQL** | **PYTHON** | **C** | **C++** 📕📗📘📙📚
