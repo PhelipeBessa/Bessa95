@@ -1,5 +1,5 @@
 # 💫 About Me:
-Graduando em Análise e Desenvolvimento de Sistemas 🎓<br>Estudante Full-Stack da RocketSeat 🚀<br>Aluno de Pyhon na Udemy 🐍<br>No momento tenho interesse na área de Fron-End 💻<br>Mas meu foco é Full-Stack 🎯<br>Meus conhecimentos atuais: HTML | CSS | JAVASCRIPT | PYTHON | Django | PHP | MYSQL | C | C++ 📕📗📘📙📚
+Graduando em Análise e Desenvolvimento de Sistemas 🎓<br>Estudante Full-Stack da RocketSeat 🚀<br>Aluno de Pyhon na Udemy 🐍<br>No momento tenho interesse na área de Fron-End 💻<br>Mas meu foco é Full-Stack 🎯<br>Meus conhecimentos atuais: HTML | CSS | JAVASCRIPT | PYTHON | Django | MYSQL | C | C++ 📕📗📘📙📚
 
 
 ## 🌐 Socials:
